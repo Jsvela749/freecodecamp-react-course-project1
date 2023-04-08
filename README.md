@@ -9,3 +9,6 @@ It can be run by using the 'npm start' command on root directory of the app.
 # Description
 
 It's a FreeCodeCamp testimonies section clone from its webpage using components and props.
+
+
+![react-project1](https://user-images.githubusercontent.com/78876044/230729800-065c51fd-a695-41e7-983a-09c61643e0e4.png)
