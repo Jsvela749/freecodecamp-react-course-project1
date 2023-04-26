@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/freecodecamp-react-course-project1%20/static/css/main.a558b8ac.css",
-    "main.js": "/freecodecamp-react-course-project1%20/static/js/main.98f51d6f.js",
-    "static/media/testimonio-emma.png": "/freecodecamp-react-course-project1%20/static/media/testimonio-emma.add10415a5668325d2f2.png",
-    "static/media/testimonio-sarah.png": "/freecodecamp-react-course-project1%20/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
-    "static/media/testimonio-shawn.png": "/freecodecamp-react-course-project1%20/static/media/testimonio-shawn.0d373888087fb18fc145.png",
-    "index.html": "/freecodecamp-react-course-project1%20/index.html",
-    "main.a558b8ac.css.map": "/freecodecamp-react-course-project1%20/static/css/main.a558b8ac.css.map",
-    "main.98f51d6f.js.map": "/freecodecamp-react-course-project1%20/static/js/main.98f51d6f.js.map"
+    "main.css": "/freecodecamp-react-course-project1/static/css/main.a558b8ac.css",
+    "main.js": "/freecodecamp-react-course-project1/static/js/main.cb00a1b6.js",
+    "static/media/testimonio-emma.png": "/freecodecamp-react-course-project1/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/freecodecamp-react-course-project1/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/freecodecamp-react-course-project1/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/freecodecamp-react-course-project1/index.html",
+    "main.a558b8ac.css.map": "/freecodecamp-react-course-project1/static/css/main.a558b8ac.css.map",
+    "main.cb00a1b6.js.map": "/freecodecamp-react-course-project1/static/js/main.cb00a1b6.js.map"
   },
   "entrypoints": [
     "static/css/main.a558b8ac.css",
-    "static/js/main.98f51d6f.js"
+    "static/js/main.cb00a1b6.js"
   ]
 }
