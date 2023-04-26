@@ -12,3 +12,7 @@ It's a FreeCodeCamp testimonies section clone from its webpage using components 
 
 
 ![react-project1](https://user-images.githubusercontent.com/78876044/230729800-065c51fd-a695-41e7-983a-09c61643e0e4.png)
+
+# Link
+
+The site can be visited on GitHub pages on the following URL:  https://jsvela749.github.io/freecodecamp-react-course-project1/
